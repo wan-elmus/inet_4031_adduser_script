@@ -2,7 +2,7 @@
 
 # INET4031 - Automated User Creation Script
 # Feyzan Ali
-# Date Created: November 07, 2025
+# Date Created: November 05, 2025
 # Date Last Modified: November 07, 2025
 
 # os: Execute system commands (adduser, passwd)
